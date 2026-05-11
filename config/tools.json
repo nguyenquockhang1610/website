@@ -780,6 +780,27 @@
         "title": "Golang AsyncAPI Code Generator",
         "description": "Generate Go user and application boilerplate from AsyncAPI specifications. Can be called from `go generate` without requirements.\n",
         "links": {
+          "repoUrl": "https://github.com/dimonoff/asyncapi-codegen"
+        },
+        "filters": {
+          "language": [
+            {
+              "name": "Go/Golang",
+              "color": "bg-[#8ECFDF]",
+              "borderColor": "border-[#00AFD9]"
+            }
+          ],
+          "technology": [],
+          "categories": [
+            "code-generator"
+          ],
+          "hasCommercial": false
+        }
+      },
+      {
+        "title": "Golang AsyncAPI Code Generator",
+        "description": "Generate Go user and application boilerplate from AsyncAPI specifications. Can be called from `go generate` without requirements.\n",
+        "links": {
           "repoUrl": "https://github.com/lerenn/asyncapi-codegen"
         },
         "filters": {
